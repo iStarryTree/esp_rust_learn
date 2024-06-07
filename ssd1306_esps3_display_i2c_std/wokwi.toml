@@ -1,0 +1,5 @@
+[wokwi]
+version = 1
+gdbServerPort = 3333
+elf = "target/xtensa-esp32s3-espidf/debug/ssd1306_esps3_display_i2c_std"
+firmware = "target/xtensa-esp32s3-espidf/debug/ssd1306_esps3_display_i2c_std"
